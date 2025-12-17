@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: system-ui, Arial;
   
-  background: linear-gradient(135deg, #4facfe, #fe00b2);
+  background: linear-gradient(135deg, #000000, #000000);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -56,4 +56,5 @@ button:active {
 #status {
   margin-top: 10px;
   font-size: 14px;
+
 }
